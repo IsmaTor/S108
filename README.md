@@ -1,4 +1,4 @@
-# S108
+# S108  LAMBDAS
 Lambdas
 Practica exclusiva de les lambdes, un concepte difícil d'entendre però molt útil un cop assolit.
 
